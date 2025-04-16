@@ -1,3 +1,7 @@
+# 0.4.1
+* This is not a real release.
+* This is where the release notes go.
+
 # 0.4.0
 
 A huge release with more than 250 commits since 0.3.0. We've also had several new contributors,
